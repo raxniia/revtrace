@@ -1,0 +1,20 @@
+{
+  "scenario": {
+    "name": "dar-confort",
+    "seed": 42,
+    "slow_response": true,
+    "missing_followups": true,
+    "bad_source": false,
+    "price_hike": false
+  },
+  "primary": [
+    "response",
+    "followups"
+  ],
+  "chronic": [
+    "product"
+  ],
+  "decoys": [
+    "price"
+  ]
+}

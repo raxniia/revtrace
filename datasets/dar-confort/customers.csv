@@ -1,0 +1,514 @@
+customer_id,lead_id,name,wilaya,first_order_at
+C00001,L00003,Sara Slimani,Sétif,2026-08-03
+C00002,L00006,Hichem Cherif,Blida,2026-08-07
+C00003,L00007,Nesrine Brahimi,Tizi Ouzou,2026-08-02
+C00004,L00010,Bilal Saidi,Sétif,2026-08-04
+C00005,L00023,Farid Meziane,Béjaïa,2026-08-06
+C00006,L00029,Houda Benali,Alger,2026-08-06
+C00007,L00034,Lina Cherif,Constantine,2026-08-08
+C00008,L00035,Kenza Hamidi,Oran,2026-08-03
+C00009,L00061,Sara Benali,Annaba,2026-08-03
+C00010,L00062,Amina Belkacem,Béjaïa,2026-08-08
+C00011,L00065,Asma Hamidi,Annaba,2026-08-06
+C00012,L00068,Anis Brahimi,Annaba,2026-08-09
+C00013,L00074,Kenza Benali,Blida,2026-08-08
+C00014,L00088,Lina Benali,Blida,2026-08-08
+C00015,L00102,Sofiane Belkacem,Béjaïa,2026-08-07
+C00016,L00105,Rachid Kaci,Tizi Ouzou,2026-08-06
+C00017,L00139,Meriem Mansouri,Annaba,2026-08-07
+C00018,L00163,Farid Haddad,Sétif,2026-08-07
+C00019,L00168,Bilal Taleb,Constantine,2026-08-11
+C00020,L00177,Yacine Larbi,Annaba,2026-08-06
+C00021,L00190,Sofiane Ferhat,Constantine,2026-08-08
+C00022,L00221,Hichem Zerrouki,Tizi Ouzou,2026-08-08
+C00023,L00226,Asma Mansouri,Béjaïa,2026-08-10
+C00024,L00232,Nesrine Larbi,Oran,2026-08-12
+C00025,L00248,Bilal Boudiaf,Constantine,2026-08-08
+C00026,L00266,Bilal Hamidi,Alger,2026-08-11
+C00027,L00273,Lina Zerrouki,Oran,2026-08-10
+C00028,L00280,Lina Zerrouki,Alger,2026-08-11
+C00029,L00286,Mehdi Zerrouki,Oran,2026-08-07
+C00030,L00302,Nabil Taleb,Alger,2026-08-12
+C00031,L00308,Meriem Haddad,Sétif,2026-08-11
+C00032,L00313,Kenza Meziane,Alger,2026-08-11
+C00033,L00316,Anis Haddad,Oran,2026-08-10
+C00034,L00319,Anis Benali,Constantine,2026-08-12
+C00035,L00325,Farid Benali,Oran,2026-08-13
+C00036,L00338,Rachid Saidi,Alger,2026-08-11
+C00037,L00340,Hichem Brahimi,Blida,2026-08-12
+C00038,L00341,Walid Taleb,Alger,2026-08-12
+C00039,L00343,Bilal Benali,Constantine,2026-08-13
+C00040,L00345,Anis Mansouri,Constantine,2026-08-10
+C00041,L00350,Hichem Meziane,Béjaïa,2026-08-13
+C00042,L00356,Sofiane Saidi,Sétif,2026-08-13
+C00043,L00361,Asma Cherif,Tizi Ouzou,2026-08-12
+C00044,L00363,Nesrine Saidi,Tizi Ouzou,2026-08-08
+C00045,L00366,Sofiane Brahimi,Annaba,2026-08-09
+C00046,L00370,Imane Zerrouki,Blida,2026-08-08
+C00047,L00375,Bilal Belkacem,Sétif,2026-08-12
+C00048,L00380,Karima Boudiaf,Tizi Ouzou,2026-08-13
+C00049,L00382,Asma Djebbar,Blida,2026-08-08
+C00050,L00383,Yacine Boudiaf,Sétif,2026-08-13
+C00051,L00386,Nesrine Rahmani,Alger,2026-08-13
+C00052,L00396,Sofiane Rahmani,Blida,2026-08-13
+C00053,L00405,Anis Kaci,Blida,2026-08-11
+C00054,L00409,Kenza Taleb,Sétif,2026-08-13
+C00055,L00413,Bilal Larbi,Oran,2026-08-14
+C00056,L00414,Karima Ouali,Béjaïa,2026-08-11
+C00057,L00416,Imane Taleb,Alger,2026-08-12
+C00058,L00417,Amina Larbi,Alger,2026-08-13
+C00059,L00425,Houda Mansouri,Tizi Ouzou,2026-08-10
+C00060,L00451,Sofiane Belkacem,Sétif,2026-08-14
+C00061,L00454,Nabil Saidi,Alger,2026-08-10
+C00062,L00461,Yacine Cherif,Tizi Ouzou,2026-08-12
+C00063,L00469,Yacine Larbi,Tizi Ouzou,2026-08-11
+C00064,L00476,Asma Kaci,Sétif,2026-08-14
+C00065,L00487,Sofiane Meziane,Constantine,2026-08-11
+C00066,L00520,Sara Rahmani,Oran,2026-08-11
+C00067,L00523,Sofiane Belkacem,Annaba,2026-08-12
+C00068,L00542,Lina Mansouri,Sétif,2026-08-16
+C00069,L00543,Farid Meziane,Blida,2026-08-15
+C00070,L00563,Yacine Haddad,Constantine,2026-08-18
+C00071,L00575,Farid Haddad,Oran,2026-08-13
+C00072,L00579,Lina Saidi,Sétif,2026-08-12
+C00073,L00593,Mehdi Cherif,Blida,2026-08-16
+C00074,L00598,Nesrine Boudiaf,Constantine,2026-08-14
+C00075,L00600,Walid Hamidi,Oran,2026-08-14
+C00076,L00609,Bilal Zerrouki,Sétif,2026-08-14
+C00077,L00610,Kenza Rahmani,Sétif,2026-08-19
+C00078,L00632,Asma Saidi,Tizi Ouzou,2026-08-14
+C00079,L00635,Yacine Meziane,Alger,2026-08-18
+C00080,L00646,Karima Cherif,Blida,2026-08-14
+C00081,L00651,Lina Ferhat,Sétif,2026-08-17
+C00082,L00655,Sara Meziane,Béjaïa,2026-08-20
+C00083,L00658,Farid Slimani,Tizi Ouzou,2026-08-18
+C00084,L00672,Hichem Mansouri,Alger,2026-08-20
+C00085,L00685,Amina Zerrouki,Blida,2026-08-15
+C00086,L00691,Houda Mansouri,Tizi Ouzou,2026-08-21
+C00087,L00692,Asma Larbi,Béjaïa,2026-08-20
+C00088,L00712,Farid Boudiaf,Alger,2026-08-21
+C00089,L00720,Rachid Kaci,Alger,2026-08-20
+C00090,L00721,Amina Kaci,Constantine,2026-08-20
+C00091,L00734,Walid Haddad,Tizi Ouzou,2026-08-21
+C00092,L00740,Sofiane Saidi,Oran,2026-08-16
+C00093,L00741,Yacine Brahimi,Sétif,2026-08-18
+C00094,L00768,Nabil Benali,Béjaïa,2026-08-17
+C00095,L00780,Kenza Mansouri,Alger,2026-08-22
+C00096,L00782,Houda Djebbar,Alger,2026-08-18
+C00097,L00786,Lina Taleb,Sétif,2026-08-17
+C00098,L00794,Amina Djebbar,Constantine,2026-08-17
+C00099,L00795,Imane Meziane,Blida,2026-08-21
+C00100,L00801,Yacine Taleb,Tizi Ouzou,2026-08-17
+C00101,L00803,Sofiane Rahmani,Tizi Ouzou,2026-08-20
+C00102,L00807,Lina Djebbar,Oran,2026-08-19
+C00103,L00809,Yacine Taleb,Alger,2026-08-19
+C00104,L00812,Mehdi Djebbar,Alger,2026-08-21
+C00105,L00813,Nabil Zerrouki,Annaba,2026-08-21
+C00106,L00815,Sara Djebbar,Tizi Ouzou,2026-08-19
+C00107,L00822,Imane Zerrouki,Alger,2026-08-18
+C00108,L00824,Bilal Benali,Oran,2026-08-17
+C00109,L00827,Houda Benali,Alger,2026-08-18
+C00110,L00828,Asma Hamidi,Béjaïa,2026-08-20
+C00111,L00831,Kenza Boudiaf,Oran,2026-08-20
+C00112,L00840,Nabil Saidi,Blida,2026-08-19
+C00113,L00860,Meriem Djebbar,Oran,2026-08-19
+C00114,L00864,Sara Larbi,Blida,2026-08-20
+C00115,L00885,Nabil Taleb,Sétif,2026-08-20
+C00116,L00889,Mehdi Taleb,Alger,2026-08-21
+C00117,L00891,Bilal Zerrouki,Tizi Ouzou,2026-08-24
+C00118,L00892,Yacine Rahmani,Constantine,2026-08-19
+C00119,L00894,Imane Saidi,Constantine,2026-08-21
+C00120,L00899,Hichem Djebbar,Oran,2026-08-19
+C00121,L00903,Sofiane Ferhat,Tizi Ouzou,2026-08-19
+C00122,L00905,Karima Benali,Blida,2026-08-20
+C00123,L00906,Rachid Kaci,Oran,2026-08-19
+C00124,L00909,Meriem Ouali,Blida,2026-08-22
+C00125,L00917,Nabil Belkacem,Alger,2026-08-20
+C00126,L00926,Sara Brahimi,Tizi Ouzou,2026-08-23
+C00127,L00940,Farid Ferhat,Tizi Ouzou,2026-08-24
+C00128,L00947,Meriem Larbi,Constantine,2026-08-25
+C00129,L00949,Houda Haddad,Sétif,2026-08-22
+C00130,L00954,Hichem Kaci,Blida,2026-08-21
+C00131,L00956,Nesrine Boudiaf,Oran,2026-08-23
+C00132,L00970,Lina Larbi,Alger,2026-08-24
+C00133,L00977,Rachid Rahmani,Oran,2026-08-25
+C00134,L00987,Karima Slimani,Béjaïa,2026-08-26
+C00135,L00996,Houda Mansouri,Blida,2026-08-20
+C00136,L01019,Anis Ferhat,Tizi Ouzou,2026-08-21
+C00137,L01031,Houda Slimani,Alger,2026-08-22
+C00138,L01053,Sara Zerrouki,Constantine,2026-08-24
+C00139,L01082,Amina Saidi,Annaba,2026-08-27
+C00140,L01089,Houda Saidi,Constantine,2026-08-24
+C00141,L01120,Hichem Ouali,Alger,2026-08-29
+C00142,L01133,Houda Haddad,Blida,2026-08-25
+C00143,L01159,Lina Larbi,Blida,2026-08-28
+C00144,L01175,Houda Saidi,Sétif,2026-08-27
+C00145,L01178,Farid Larbi,Constantine,2026-08-30
+C00146,L01181,Nabil Benali,Sétif,2026-08-29
+C00147,L01183,Nesrine Ferhat,Oran,2026-08-30
+C00148,L01187,Hichem Slimani,Oran,2026-08-26
+C00149,L01202,Karima Djebbar,Sétif,2026-08-29
+C00150,L01204,Houda Taleb,Béjaïa,2026-08-26
+C00151,L01205,Hichem Meziane,Sétif,2026-08-26
+C00152,L01207,Anis Boudiaf,Tizi Ouzou,2026-08-26
+C00153,L01214,Lina Larbi,Oran,2026-08-30
+C00154,L01215,Bilal Larbi,Alger,2026-08-30
+C00155,L01222,Walid Rahmani,Blida,2026-08-25
+C00156,L01232,Anis Ferhat,Oran,2026-08-26
+C00157,L01233,Yacine Belkacem,Annaba,2026-08-28
+C00158,L01241,Sofiane Kaci,Constantine,2026-08-25
+C00159,L01245,Anis Saidi,Sétif,2026-08-25
+C00160,L01248,Nesrine Haddad,Tizi Ouzou,2026-08-26
+C00161,L01272,Karima Hamidi,Annaba,2026-08-30
+C00162,L01274,Karima Djebbar,Alger,2026-08-31
+C00163,L01280,Walid Brahimi,Oran,2026-08-28
+C00164,L01281,Sara Saidi,Annaba,2026-08-28
+C00165,L01285,Sara Larbi,Annaba,2026-09-01
+C00166,L01286,Yacine Benali,Oran,2026-08-26
+C00167,L01289,Kenza Hamidi,Oran,2026-08-28
+C00168,L01311,Kenza Ferhat,Blida,2026-08-30
+C00169,L01323,Hichem Larbi,Tizi Ouzou,2026-08-29
+C00170,L01355,Sofiane Ouali,Annaba,2026-08-28
+C00171,L01374,Walid Mansouri,Blida,2026-08-29
+C00172,L01375,Bilal Boudiaf,Alger,2026-09-01
+C00173,L01379,Sara Saidi,Oran,2026-08-31
+C00174,L01387,Amina Kaci,Constantine,2026-08-28
+C00175,L01388,Mehdi Hamidi,Annaba,2026-09-01
+C00176,L01399,Nesrine Haddad,Constantine,2026-09-01
+C00177,L01416,Nesrine Mansouri,Blida,2026-08-31
+C00178,L01477,Kenza Djebbar,Constantine,2026-09-03
+C00179,L01479,Bilal Meziane,Alger,2026-09-01
+C00180,L01480,Amina Hamidi,Blida,2026-09-02
+C00181,L01482,Hichem Cherif,Constantine,2026-08-29
+C00182,L01483,Rachid Saidi,Annaba,2026-08-29
+C00183,L01491,Mehdi Saidi,Oran,2026-09-03
+C00184,L01495,Karima Mansouri,Blida,2026-08-30
+C00185,L01497,Amina Haddad,Béjaïa,2026-09-04
+C00186,L01502,Karima Zerrouki,Sétif,2026-09-01
+C00187,L01511,Imane Djebbar,Alger,2026-09-05
+C00188,L01514,Mehdi Mansouri,Béjaïa,2026-08-30
+C00189,L01531,Imane Haddad,Tizi Ouzou,2026-08-31
+C00190,L01532,Imane Benali,Constantine,2026-08-30
+C00191,L01534,Farid Rahmani,Alger,2026-09-02
+C00192,L01536,Kenza Cherif,Blida,2026-09-04
+C00193,L01550,Imane Brahimi,Béjaïa,2026-09-02
+C00194,L01557,Meriem Rahmani,Béjaïa,2026-09-02
+C00195,L01562,Asma Taleb,Alger,2026-09-02
+C00196,L01564,Karima Ferhat,Sétif,2026-09-03
+C00197,L01572,Yacine Saidi,Annaba,2026-08-31
+C00198,L01583,Lina Mansouri,Constantine,2026-09-03
+C00199,L01602,Nabil Slimani,Alger,2026-09-05
+C00200,L01607,Karima Cherif,Constantine,2026-09-04
+C00201,L01638,Sofiane Brahimi,Sétif,2026-09-07
+C00202,L01646,Anis Zerrouki,Blida,2026-09-07
+C00203,L01660,Kenza Haddad,Blida,2026-09-08
+C00204,L01670,Kenza Mansouri,Béjaïa,2026-09-06
+C00205,L01674,Amina Boudiaf,Béjaïa,2026-09-06
+C00206,L01675,Asma Larbi,Blida,2026-09-02
+C00207,L01704,Karima Ferhat,Tizi Ouzou,2026-09-06
+C00208,L01705,Walid Meziane,Tizi Ouzou,2026-09-05
+C00209,L01708,Bilal Ouali,Tizi Ouzou,2026-09-09
+C00210,L01713,Kenza Meziane,Alger,2026-09-04
+C00211,L01716,Nesrine Hamidi,Sétif,2026-09-07
+C00212,L01724,Bilal Slimani,Sétif,2026-09-03
+C00213,L01730,Anis Ouali,Tizi Ouzou,2026-09-10
+C00214,L01732,Rachid Kaci,Sétif,2026-09-06
+C00215,L01736,Karima Meziane,Tizi Ouzou,2026-09-04
+C00216,L01745,Nesrine Ferhat,Constantine,2026-09-06
+C00217,L01748,Kenza Slimani,Béjaïa,2026-09-04
+C00218,L01749,Farid Saidi,Oran,2026-09-07
+C00219,L01752,Nesrine Rahmani,Annaba,2026-09-04
+C00220,L01767,Karima Hamidi,Béjaïa,2026-09-09
+C00221,L01775,Rachid Ferhat,Annaba,2026-09-09
+C00222,L01778,Walid Saidi,Béjaïa,2026-09-07
+C00223,L01780,Sara Brahimi,Constantine,2026-09-06
+C00224,L01787,Sara Mansouri,Blida,2026-09-11
+C00225,L01798,Sofiane Ouali,Alger,2026-09-10
+C00226,L01799,Kenza Taleb,Annaba,2026-09-09
+C00227,L01801,Walid Taleb,Constantine,2026-09-09
+C00228,L01817,Amina Hamidi,Sétif,2026-09-05
+C00229,L01824,Yacine Cherif,Annaba,2026-09-06
+C00230,L01825,Imane Hamidi,Béjaïa,2026-09-08
+C00231,L01826,Bilal Cherif,Oran,2026-09-09
+C00232,L01839,Farid Slimani,Alger,2026-09-07
+C00233,L01853,Walid Slimani,Alger,2026-09-08
+C00234,L01873,Anis Belkacem,Annaba,2026-09-12
+C00235,L01886,Amina Djebbar,Béjaïa,2026-09-09
+C00236,L01887,Meriem Larbi,Oran,2026-09-11
+C00237,L01889,Anis Meziane,Alger,2026-09-09
+C00238,L01892,Houda Larbi,Alger,2026-09-08
+C00239,L01896,Yacine Taleb,Annaba,2026-09-07
+C00240,L01898,Karima Taleb,Sétif,2026-09-11
+C00241,L01906,Farid Rahmani,Constantine,2026-09-08
+C00242,L01914,Rachid Hamidi,Blida,2026-09-11
+C00243,L01917,Kenza Ouali,Blida,2026-09-10
+C00244,L01954,Sofiane Saidi,Annaba,2026-09-14
+C00245,L01957,Yacine Rahmani,Blida,2026-09-09
+C00246,L01972,Sara Brahimi,Béjaïa,2026-09-10
+C00247,L01981,Sofiane Brahimi,Oran,2026-09-10
+C00248,L01996,Houda Taleb,Béjaïa,2026-09-15
+C00249,L02002,Bilal Brahimi,Sétif,2026-09-11
+C00250,L02004,Lina Kaci,Constantine,2026-09-09
+C00251,L02014,Karima Larbi,Oran,2026-09-10
+C00252,L02024,Karima Mansouri,Blida,2026-09-13
+C00253,L02026,Yacine Rahmani,Sétif,2026-09-15
+C00254,L02027,Rachid Haddad,Annaba,2026-09-10
+C00255,L02049,Imane Djebbar,Alger,2026-09-15
+C00256,L02074,Mehdi Benali,Béjaïa,2026-09-12
+C00257,L02076,Lina Benali,Oran,2026-09-10
+C00258,L02077,Houda Haddad,Béjaïa,2026-09-11
+C00259,L02086,Imane Ferhat,Béjaïa,2026-09-16
+C00260,L02090,Bilal Saidi,Oran,2026-09-12
+C00261,L02109,Asma Larbi,Alger,2026-09-15
+C00262,L02132,Rachid Kaci,Constantine,2026-09-15
+C00263,L02133,Meriem Ferhat,Sétif,2026-09-16
+C00264,L02134,Imane Brahimi,Oran,2026-09-16
+C00265,L02144,Nesrine Haddad,Annaba,2026-09-16
+C00266,L02169,Hichem Rahmani,Tizi Ouzou,2026-09-17
+C00267,L02171,Lina Mansouri,Tizi Ouzou,2026-09-12
+C00268,L02173,Bilal Cherif,Sétif,2026-09-18
+C00269,L02174,Mehdi Cherif,Alger,2026-09-16
+C00270,L02178,Imane Zerrouki,Tizi Ouzou,2026-09-14
+C00271,L02193,Meriem Belkacem,Blida,2026-09-15
+C00272,L02203,Hichem Meziane,Oran,2026-09-14
+C00273,L02218,Hichem Ouali,Constantine,2026-09-15
+C00274,L02222,Amina Haddad,Blida,2026-09-16
+C00275,L02226,Amina Boudiaf,Blida,2026-09-18
+C00276,L02233,Nesrine Ferhat,Oran,2026-09-17
+C00277,L02237,Mehdi Ferhat,Alger,2026-09-16
+C00278,L02238,Rachid Rahmani,Alger,2026-09-18
+C00279,L02250,Bilal Taleb,Annaba,2026-09-14
+C00280,L02257,Bilal Taleb,Constantine,2026-09-16
+C00281,L02270,Nabil Haddad,Sétif,2026-09-15
+C00282,L02279,Kenza Slimani,Tizi Ouzou,2026-09-19
+C00283,L02291,Kenza Haddad,Béjaïa,2026-09-20
+C00284,L02293,Anis Slimani,Oran,2026-09-17
+C00285,L02296,Houda Boudiaf,Béjaïa,2026-09-15
+C00286,L02301,Karima Mansouri,Blida,2026-09-18
+C00287,L02302,Bilal Zerrouki,Alger,2026-09-17
+C00288,L02306,Asma Saidi,Blida,2026-09-15
+C00289,L02307,Anis Djebbar,Béjaïa,2026-09-19
+C00290,L02312,Nesrine Ouali,Annaba,2026-09-21
+C00291,L02313,Nabil Cherif,Sétif,2026-09-20
+C00292,L02323,Kenza Saidi,Blida,2026-09-17
+C00293,L02365,Anis Ferhat,Sétif,2026-09-22
+C00294,L02373,Asma Boudiaf,Blida,2026-09-18
+C00295,L02375,Nesrine Brahimi,Blida,2026-09-16
+C00296,L02385,Lina Belkacem,Alger,2026-09-22
+C00297,L02386,Walid Belkacem,Oran,2026-09-17
+C00298,L02393,Mehdi Hamidi,Béjaïa,2026-09-17
+C00299,L02399,Imane Taleb,Tizi Ouzou,2026-09-21
+C00300,L02406,Yacine Ouali,Alger,2026-09-17
+C00301,L02411,Amina Ferhat,Annaba,2026-09-23
+C00302,L02436,Meriem Brahimi,Annaba,2026-09-20
+C00303,L02438,Lina Ferhat,Annaba,2026-09-17
+C00304,L02445,Kenza Brahimi,Constantine,2026-09-21
+C00305,L02457,Houda Taleb,Annaba,2026-09-23
+C00306,L02470,Meriem Ferhat,Tizi Ouzou,2026-09-23
+C00307,L02478,Meriem Rahmani,Alger,2026-09-21
+C00308,L02484,Anis Djebbar,Alger,2026-09-21
+C00309,L02486,Amina Ouali,Sétif,2026-09-20
+C00310,L02490,Amina Cherif,Oran,2026-09-18
+C00311,L02498,Houda Larbi,Béjaïa,2026-09-21
+C00312,L02506,Nabil Kaci,Béjaïa,2026-09-21
+C00313,L02536,Houda Benali,Annaba,2026-09-24
+C00314,L02537,Amina Ouali,Alger,2026-09-20
+C00315,L02538,Houda Saidi,Alger,2026-09-22
+C00316,L02542,Walid Taleb,Oran,2026-09-20
+C00317,L02561,Karima Mansouri,Constantine,2026-09-21
+C00318,L02562,Walid Taleb,Oran,2026-09-26
+C00319,L02573,Karima Mansouri,Blida,2026-09-23
+C00320,L02575,Asma Brahimi,Béjaïa,2026-09-23
+C00321,L02582,Kenza Meziane,Tizi Ouzou,2026-09-20
+C00322,L02588,Farid Belkacem,Blida,2026-09-25
+C00323,L02594,Anis Taleb,Blida,2026-09-21
+C00324,L02627,Imane Ouali,Sétif,2026-09-21
+C00325,L02640,Karima Meziane,Annaba,2026-09-26
+C00326,L02642,Imane Brahimi,Constantine,2026-09-27
+C00327,L02649,Hichem Brahimi,Tizi Ouzou,2026-09-28
+C00328,L02677,Nesrine Benali,Alger,2026-09-25
+C00329,L02678,Rachid Kaci,Alger,2026-09-24
+C00330,L02679,Asma Meziane,Sétif,2026-09-27
+C00331,L02693,Asma Belkacem,Tizi Ouzou,2026-09-24
+C00332,L02706,Yacine Larbi,Blida,2026-09-24
+C00333,L02713,Houda Larbi,Blida,2026-09-28
+C00334,L02715,Yacine Djebbar,Blida,2026-09-28
+C00335,L02721,Farid Kaci,Oran,2026-09-24
+C00336,L02733,Mehdi Mansouri,Blida,2026-09-26
+C00337,L02737,Walid Brahimi,Tizi Ouzou,2026-09-28
+C00338,L02742,Imane Djebbar,Tizi Ouzou,2026-09-27
+C00339,L02751,Nesrine Hamidi,Sétif,2026-09-28
+C00340,L02754,Kenza Djebbar,Oran,2026-09-24
+C00341,L02755,Asma Taleb,Constantine,2026-09-25
+C00342,L02758,Sofiane Mansouri,Sétif,2026-09-24
+C00343,L02759,Kenza Ferhat,Sétif,2026-09-27
+C00344,L02764,Nabil Kaci,Oran,2026-09-25
+C00345,L02786,Lina Saidi,Blida,2026-09-28
+C00346,L02798,Imane Belkacem,Béjaïa,2026-09-27
+C00347,L02803,Lina Benali,Annaba,2026-09-30
+C00348,L02811,Houda Cherif,Tizi Ouzou,2026-09-28
+C00349,L02813,Meriem Taleb,Alger,2026-09-29
+C00350,L02823,Sofiane Rahmani,Tizi Ouzou,2026-09-27
+C00351,L02824,Amina Ferhat,Blida,2026-09-28
+C00352,L02827,Farid Cherif,Annaba,2026-09-30
+C00353,L02828,Houda Djebbar,Béjaïa,2026-09-25
+C00354,L02838,Kenza Mansouri,Sétif,2026-09-30
+C00355,L02841,Sofiane Meziane,Annaba,2026-09-27
+C00356,L02845,Sara Zerrouki,Blida,2026-09-29
+C00357,L02848,Bilal Kaci,Tizi Ouzou,2026-09-25
+C00358,L02857,Farid Kaci,Annaba,2026-09-29
+C00359,L02858,Asma Djebbar,Tizi Ouzou,2026-10-01
+C00360,L02860,Walid Haddad,Blida,2026-10-01
+C00361,L02869,Hichem Cherif,Annaba,2026-09-26
+C00362,L02871,Anis Zerrouki,Sétif,2026-09-29
+C00363,L02887,Nesrine Mansouri,Sétif,2026-10-02
+C00364,L02908,Nesrine Meziane,Constantine,2026-09-28
+C00365,L02926,Nesrine Larbi,Oran,2026-09-29
+C00366,L02933,Sara Zerrouki,Annaba,2026-09-29
+C00367,L02934,Anis Belkacem,Béjaïa,2026-09-27
+C00368,L02953,Anis Larbi,Tizi Ouzou,2026-09-28
+C00369,L02964,Meriem Meziane,Tizi Ouzou,2026-09-28
+C00370,L02974,Kenza Rahmani,Annaba,2026-10-01
+C00371,L02977,Anis Rahmani,Constantine,2026-10-04
+C00372,L02987,Bilal Zerrouki,Sétif,2026-10-01
+C00373,L03023,Nesrine Kaci,Blida,2026-10-02
+C00374,L03024,Farid Meziane,Constantine,2026-10-02
+C00375,L03053,Sofiane Brahimi,Béjaïa,2026-10-06
+C00376,L03060,Rachid Haddad,Constantine,2026-10-04
+C00377,L03089,Anis Djebbar,Annaba,2026-10-04
+C00378,L03094,Hichem Haddad,Constantine,2026-10-04
+C00379,L03108,Asma Kaci,Tizi Ouzou,2026-10-02
+C00380,L03111,Mehdi Taleb,Alger,2026-10-06
+C00381,L03127,Amina Taleb,Tizi Ouzou,2026-10-04
+C00382,L03131,Farid Ferhat,Constantine,2026-10-07
+C00383,L03144,Walid Meziane,Alger,2026-10-07
+C00384,L03148,Anis Saidi,Annaba,2026-10-05
+C00385,L03151,Nesrine Brahimi,Béjaïa,2026-10-01
+C00386,L03156,Hichem Benali,Blida,2026-10-02
+C00387,L03185,Anis Larbi,Béjaïa,2026-10-02
+C00388,L03195,Lina Kaci,Tizi Ouzou,2026-10-08
+C00389,L03248,Amina Boudiaf,Constantine,2026-10-07
+C00390,L03256,Lina Haddad,Sétif,2026-10-03
+C00391,L03263,Sofiane Cherif,Blida,2026-10-09
+C00392,L03285,Hichem Mansouri,Annaba,2026-10-04
+C00393,L03323,Sara Ferhat,Sétif,2026-10-05
+C00394,L03349,Kenza Benali,Blida,2026-10-09
+C00395,L03351,Rachid Ferhat,Béjaïa,2026-10-10
+C00396,L03356,Walid Brahimi,Constantine,2026-10-08
+C00397,L03370,Nabil Djebbar,Sétif,2026-10-08
+C00398,L03396,Anis Belkacem,Oran,2026-10-11
+C00399,L03399,Sofiane Djebbar,Tizi Ouzou,2026-10-08
+C00400,L03401,Asma Benali,Constantine,2026-10-08
+C00401,L03406,Sofiane Benali,Béjaïa,2026-10-11
+C00402,L03417,Kenza Larbi,Constantine,2026-10-09
+C00403,L03433,Lina Larbi,Tizi Ouzou,2026-10-11
+C00404,L03435,Imane Ouali,Oran,2026-10-06
+C00405,L03452,Hichem Benali,Constantine,2026-10-06
+C00406,L03454,Rachid Zerrouki,Sétif,2026-10-11
+C00407,L03459,Sofiane Hamidi,Annaba,2026-10-12
+C00408,L03476,Anis Cherif,Blida,2026-10-09
+C00409,L03494,Kenza Benali,Annaba,2026-10-07
+C00410,L03535,Houda Ouali,Annaba,2026-10-09
+C00411,L03547,Hichem Zerrouki,Sétif,2026-10-12
+C00412,L03569,Houda Ouali,Alger,2026-10-10
+C00413,L03587,Mehdi Larbi,Blida,2026-10-09
+C00414,L03598,Meriem Belkacem,Oran,2026-10-10
+C00415,L03602,Yacine Zerrouki,Tizi Ouzou,2026-10-12
+C00416,L03614,Houda Mansouri,Annaba,2026-10-12
+C00417,L03619,Yacine Belkacem,Constantine,2026-10-12
+C00418,L03620,Nesrine Ouali,Tizi Ouzou,2026-10-14
+C00419,L03631,Walid Meziane,Sétif,2026-10-11
+C00420,L03640,Rachid Cherif,Sétif,2026-10-10
+C00421,L03669,Walid Boudiaf,Béjaïa,2026-10-13
+C00422,L03672,Bilal Slimani,Constantine,2026-10-10
+C00423,L03689,Houda Zerrouki,Blida,2026-10-16
+C00424,L03720,Asma Ouali,Blida,2026-10-16
+C00425,L03749,Walid Djebbar,Annaba,2026-10-13
+C00426,L03760,Bilal Rahmani,Annaba,2026-10-15
+C00427,L03775,Lina Kaci,Béjaïa,2026-10-15
+C00428,L03781,Bilal Ouali,Sétif,2026-10-12
+C00429,L03783,Hichem Brahimi,Oran,2026-10-16
+C00430,L03802,Walid Rahmani,Oran,2026-10-17
+C00431,L03804,Meriem Benali,Tizi Ouzou,2026-10-15
+C00432,L03817,Lina Mansouri,Sétif,2026-10-16
+C00433,L03819,Sara Ferhat,Blida,2026-10-14
+C00434,L03844,Hichem Mansouri,Sétif,2026-10-15
+C00435,L03872,Meriem Rahmani,Blida,2026-10-14
+C00436,L03887,Nesrine Belkacem,Oran,2026-10-17
+C00437,L03896,Nabil Benali,Blida,2026-10-19
+C00438,L03903,Asma Meziane,Sétif,2026-10-16
+C00439,L03908,Kenza Hamidi,Béjaïa,2026-10-15
+C00440,L03936,Nabil Slimani,Sétif,2026-10-14
+C00441,L03969,Farid Taleb,Constantine,2026-10-19
+C00442,L03973,Farid Meziane,Blida,2026-10-19
+C00443,L03976,Sofiane Boudiaf,Blida,2026-10-15
+C00444,L03977,Kenza Hamidi,Tizi Ouzou,2026-10-18
+C00445,L03983,Hichem Rahmani,Béjaïa,2026-10-18
+C00446,L03998,Nesrine Kaci,Oran,2026-10-18
+C00447,L04010,Kenza Larbi,Tizi Ouzou,2026-10-16
+C00448,L04021,Anis Zerrouki,Tizi Ouzou,2026-10-18
+C00449,L04062,Rachid Brahimi,Béjaïa,2026-10-21
+C00450,L04070,Nesrine Meziane,Tizi Ouzou,2026-10-21
+C00451,L04099,Imane Djebbar,Béjaïa,2026-10-22
+C00452,L04103,Anis Boudiaf,Tizi Ouzou,2026-10-23
+C00453,L04171,Walid Larbi,Blida,2026-10-21
+C00454,L04179,Nesrine Saidi,Sétif,2026-10-22
+C00455,L04204,Anis Larbi,Béjaïa,2026-10-25
+C00456,L04207,Anis Meziane,Blida,2026-10-22
+C00457,L04236,Bilal Larbi,Blida,2026-10-25
+C00458,L04240,Imane Hamidi,Tizi Ouzou,2026-10-20
+C00459,L04243,Kenza Ouali,Sétif,2026-10-23
+C00460,L04244,Houda Larbi,Oran,2026-10-19
+C00461,L04250,Hichem Djebbar,Alger,2026-10-22
+C00462,L04285,Asma Djebbar,Oran,2026-10-24
+C00463,L04294,Meriem Haddad,Blida,2026-10-26
+C00464,L04303,Bilal Kaci,Béjaïa,2026-10-20
+C00465,L04320,Mehdi Djebbar,Constantine,2026-10-22
+C00466,L04326,Meriem Djebbar,Béjaïa,2026-10-23
+C00467,L04329,Sara Boudiaf,Sétif,2026-10-21
+C00468,L04330,Karima Djebbar,Béjaïa,2026-10-24
+C00469,L04350,Amina Kaci,Annaba,2026-10-23
+C00470,L04366,Mehdi Ouali,Alger,2026-10-26
+C00471,L04370,Anis Belkacem,Annaba,2026-10-27
+C00472,L04377,Hichem Benali,Béjaïa,2026-10-22
+C00473,L04378,Farid Djebbar,Constantine,2026-10-28
+C00474,L04434,Kenza Larbi,Constantine,2026-10-26
+C00475,L04437,Sara Cherif,Blida,2026-10-27
+C00476,L04438,Hichem Djebbar,Tizi Ouzou,2026-10-25
+C00477,L04442,Sara Benali,Annaba,2026-10-25
+C00478,L04452,Mehdi Ouali,Tizi Ouzou,2026-10-29
+C00479,L04455,Bilal Djebbar,Sétif,2026-10-23
+C00480,L04465,Farid Boudiaf,Annaba,2026-10-25
+C00481,L04470,Anis Slimani,Blida,2026-10-29
+C00482,L04476,Amina Kaci,Oran,2026-10-25
+C00483,L04482,Mehdi Taleb,Alger,2026-10-25
+C00484,L04486,Nesrine Brahimi,Annaba,2026-10-29
+C00485,L04526,Farid Kaci,Constantine,2026-10-27
+C00486,L04540,Houda Zerrouki,Sétif,2026-10-30
+C00487,L04556,Nesrine Belkacem,Annaba,2026-10-27
+C00488,L04602,Hichem Mansouri,Alger,2026-10-25
+C00489,L04627,Mehdi Meziane,Tizi Ouzou,2026-10-30
+C00490,L04636,Hichem Larbi,Constantine,2026-10-28
+C00491,L04639,Rachid Slimani,Tizi Ouzou,2026-10-27
+C00492,L04640,Yacine Djebbar,Alger,2026-11-01
+C00493,L04645,Amina Rahmani,Constantine,2026-10-30
+C00494,L04658,Mehdi Ouali,Tizi Ouzou,2026-10-30
+C00495,L04660,Nesrine Boudiaf,Tizi Ouzou,2026-10-29
+C00496,L04675,Imane Haddad,Alger,2026-11-01
+C00497,L04725,Bilal Benali,Oran,2026-11-01
+C00498,L04740,Houda Brahimi,Constantine,2026-11-02
+C00499,L04764,Walid Djebbar,Annaba,2026-11-03
+C00500,L04793,Amina Hamidi,Alger,2026-11-02
+C00501,L04822,Lina Boudiaf,Constantine,2026-10-30
+C00502,L04841,Karima Meziane,Oran,2026-10-30
+C00503,L04846,Bilal Slimani,Tizi Ouzou,2026-11-02
+C00504,L04865,Mehdi Taleb,Sétif,2026-11-04
+C00505,L04875,Meriem Zerrouki,Alger,2026-11-04
+C00506,L04880,Nabil Brahimi,Sétif,2026-11-02
+C00507,L04885,Nesrine Ferhat,Tizi Ouzou,2026-11-06
+C00508,L04900,Houda Ouali,Béjaïa,2026-11-03
+C00509,L04918,Imane Meziane,Tizi Ouzou,2026-11-02
+C00510,L04923,Imane Larbi,Annaba,2026-10-31
+C00511,L04937,Nabil Boudiaf,Oran,2026-11-01
+C00512,L04950,Mehdi Brahimi,Annaba,2026-11-04
+C00513,L04970,Karima Rahmani,Béjaïa,2026-11-01
