@@ -75,7 +75,7 @@ export function DataPage({ dataset, onUploaded }: Props) {
           {data.documents.length === 0 ? (
             <p className="empty">No documents. Add .md or .txt files with a dataset to let agents check policies.</p>
           ) : (
-            <dl className="deflist">
+            <dl className="deflist stacked">
               {data.documents.map((doc) => (
                 <div key={doc.document} style={{ display: "contents" }}>
                   <dt>{doc.document.split("—").pop()?.trim()}</dt>
@@ -89,7 +89,7 @@ export function DataPage({ dataset, onUploaded }: Props) {
         <section className="sheet">
           <div className="sheet-head">
             <h2>Conversion model</h2>
-            <p>{model.trained ? model.algorithm : "Not trained"}</p>
+            <p>{model.trained ? "Gradient boosting" : "Not trained"}</p>
           </div>
           {model.trained ? (
             <>

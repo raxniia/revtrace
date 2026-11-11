@@ -992,7 +992,7 @@ mark {
 
 .grid2 {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
   gap: 24px;
   align-items: start;
 }
@@ -1010,6 +1010,28 @@ mark {
 
 .deflist dd {
   margin: 0;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.deflist.stacked {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2px;
+}
+
+.deflist.stacked dt {
+  color: var(--ink);
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.deflist.stacked dt:first-child {
+  margin-top: 0;
+}
+
+.deflist.stacked dd {
+  color: var(--ink-soft);
+  font-size: 0.92rem;
 }
 
 .chips {
